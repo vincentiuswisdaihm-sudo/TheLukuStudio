@@ -153,7 +153,7 @@ Tone bergeser tergantung channel, tapi voice tetap sama. Berikut adjustment rela
 
 * **Broad POV over Niche Framing:** Gunakan hook yang relatable secara luas ("cari workout yang gak kerasa workout?") daripada hook niche ("rindu era disko?").
 
-* **Conversational Bahasa:** Campuran Bahasa Indonesia kasual dengan sedikit English slang yang natural untuk target demographic.
+* **Conversational Bahasa:** Campuran Bahasa Indonesia kasual yang natural untuk target demographic.
 
 * **Clarify Before Creating:** Selalu konfirmasi parameter (audience, tone, platform) sebelum bikin draft.
 

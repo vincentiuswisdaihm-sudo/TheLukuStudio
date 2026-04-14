@@ -117,8 +117,11 @@ Publish di hari pertama atau kedua setiap bulan baru. Satu kali per bulan.
 
 **Visual Referensi Konten**
 
-| 🔗 Referensi Jadwal Kelas Routine yang sudah dipublikasikan: 1\. [Jadwal Kelas — Instagram Feed](https://www.instagram.com/p/DVYknbiktBr/) |
+*(Letakkan file gambar referensi di folder `06_Assets_and_References/` dan gunakan format di bawah ini agar gambar langsung muncul di dokumen)*
+
+| 🔗 Referensi Jadwal Kelas Routine: |
 | :---- |
+| ![Referensi Jadwal Kelas](../06_Assets_and_References/Jadwal_Kelas_Routine.jpg)<br>*Contoh tampilan desain Feed Jadwal Kelas Routine.* |
 
 **4\. JADWAL SPECIAL CLASS**
 
@@ -174,8 +177,9 @@ Publish di minggu pertama setiap bulan, setelah post Jadwal Kelas Routine. Satu 
 
 **Visual Referensi Konten**
 
-| 🔗 Referensi Jadwal Special Class yang sudah dipublikasikan: 1\. [Jadwal Special Class — Instagram Feed](https://www.instagram.com/p/DVdtZnCjxz6/) |
+| 🔗 Referensi Jadwal Special Class: |
 | :---- |
+| ![Referensi Special Class](../06_Assets_and_References/Jadwal_Special_Class.jpg)<br>*Contoh tampilan desain Feed Special Class.* |
 
 **5\. ZODIAC BIRTHDAY CONTENT**
 
@@ -244,8 +248,9 @@ Satu kali per bulan, di minggu pertama atau kedua sesuai periode zodiak yang ber
 
 **Visual Referensi Konten**
 
-| 🔗 Referensi Zodiac Birthday Content yang sudah dipublikasikan: 1\. [Zodiac Content — Contoh 1](https://www.instagram.com/p/DTuKgPSD6ci/) 2\. [Zodiac Content — Contoh 2](https://www.instagram.com/p/DTAmbORD5-f/) |
+| 🔗 Referensi Zodiac Birthday Content: |
 | :---- |
+| ![Referensi Zodiac](../06_Assets_and_References/Zodiac_Birthday.jpg)<br>*Contoh tampilan desain Zodiac Birthday Content.* |
 
 **6\. MUSIC DANCE — LINE DANCE PERFORMANCE**
 
@@ -439,8 +444,9 @@ Tim perlu mengumpulkan informasi berikut dari member terpilih sebelum produksi:
 
 **Visual Referensi Konten**
 
-| 🔗 Referensi Member of the Month yang sudah dipublikasikan: 1\. [MOTM — Contoh 1 (Feed Carousel)](https://www.instagram.com/p/DVV4NXHD5PY/) 2\. [MOTM — Contoh 2 (Feed Carousel)](https://www.instagram.com/p/DS76XZrjy4P/) |
+| 🔗 Referensi Member of the Month: |
 | :---- |
+| ![Referensi MOTM](../06_Assets_and_References/MOTM_Carousel.jpg)<br>*Contoh tampilan desain Feed Carousel Member of the Month.* |
 
 **9\. BEHIND THE SCENE (BTS)**
 

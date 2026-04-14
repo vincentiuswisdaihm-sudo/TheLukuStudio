@@ -29,6 +29,9 @@ Contains the planning documents for content rollouts.
 ### `05_Templates/`
 Reserved for reusable templates (e.g., caption templates, reporting templates, script formats).
 
+### `06_Assets_and_References/`
+Contains visual references, inspiration, and `.jpg`/`.png` examples of content. Content playbooks will link to images in this folder to provide visual context.
+
 ## Guidelines for AI Agents
 When operating as the Social Media Division AI Agent for The Luku Studio, you must adhere to these rules:
 1.  **Always refer to `Voice_and_Tone.md`** before generating any copy. Ensure your output aligns with the brand's conversational, warm, and non-intimidating style.
